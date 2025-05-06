@@ -1,22 +1,33 @@
-# AWS Certified Cloud Practitioner Essentials - E-Learning Notes
-Notes compilation based on AWS E-Learning lessons and transcripts. 
-Source: AWS E-Learning Classroom
+# AWS Certified Cloud Practitioner Essentials – E-Learning Tips
 
-**Check out the accompanying guide for 3 Steps to Get AWS Cloud Practitioner Certified in 2 Weeks: https://towardsdatascience.com/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249**
+A concise compilation of study Tips based on the official AWS E-Learning course materials and transcripts.  
+**Source**: AWS E-Learning Classroom
 
-**List of modules**:  
-Module 1 - Introduction to Amazon Web Services  
-Module 2 - Compute in the Cloud  
-Module 3 - Global Infrastructure and Reliability  
-Module 4 - Networking  
-Module 5 - Storage and Databases  
-Module 6 - Security  
-Module 7 - Monitoring and Analytics  
-Module 8 - Pricing and Support  
-Module 9 - Migration and Innovation  
-Module 10 - The Cloud Journey  
-Module 11 - AWS Certified Cloud Practitioner Basics  
-Module 12 - Final Assessment  
+---
 
-___
-**Check out this GitHub repo if you are also looking for study notes for the Microsoft Azure AI Engineer Associate examination: https://github.com/kennethleungty/Azure-AI-Engineer-Associate-Notes**
+### 🎯 Want to get Achieve Mastery in AWS Test Exam with Ease in just 2 weeks?  
+Check out this step-by-step guide:  
+👉 [Achieve Mastery in AWS Test Exam with Ease](https://www.vmexam.com/blog/achieve-mastery-aws-test-exam-ease)
+
+---
+
+## 📚 Course Modules Overview
+
+1. **Introduction to Amazon Web Services**  
+2. **Compute in the Cloud**  
+3. **Global Infrastructure and Reliability**  
+4. **Networking**  
+5. **Storage and Databases**  
+6. **Security**  
+7. **Monitoring and Analytics**  
+8. **Pricing and Support**  
+9. **Migration and Innovation**  
+10. **The Cloud Journey**  
+11. **AWS Certified Cloud Practitioner Basics**  
+12. **Final Assessment**
+
+---
+
+### 🔗 Related Resources  
+If you're also preparing for the **AWS Solutions Architect Associate** exam, check out the companion tips here:  
+📘 [https://github.com/siennafaleiro/AWSHub/blob/main/certification/aws-saa-c03.md](https://github.com/siennafaleiro/AWSHub/blob/main/certification/aws-saa-c03.md)
